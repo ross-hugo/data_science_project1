@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#removing large files
+fao_data_crops_data.csv
+fao_data_forest_data.csv
