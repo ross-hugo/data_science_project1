@@ -11,7 +11,7 @@ Data sets I used:
 - US land data
   - https://www.kaggle.com/unitednations/global-food-agriculture-statistics?select=fao_data_land_data.csv
 
-How these combined data sets can be used:
+How these combined data sets can be used together:
 - To predict how much land usage changes based off of crops grown 
 - To extrapolated how the specific crops planted and affect forests
 - Make predictions on which crops will be planted next by finding correlations between crops
